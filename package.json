@@ -22,7 +22,7 @@
     "joi-objectid": "^3.0.1",
     "json-find": "^2.0.4",
     "jsonwebtoken": "^9.0.0",
-    "mongoose": "^5.2.15",
+    "mongoose": "^6.13.12",
     "shortid": "^2.2.15",
     "xoauth2": "^1.2.0"
   },
